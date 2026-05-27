@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **kotishtrivedi@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** graphify clone
-- 🌱 **I’m currently learning:** data science
-- 👯 **I’m looking to collaborate on:**graphify clone
+- 🔭 **I’m currently working on:** Graphify Clone
+- 🌱 **I’m currently learning:** Data Science
+- 👯 **I’m looking to collaborate on:**Graphify Clone
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**kotishtrivedi@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech 💘 Me
@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **kotishtrivedi@gmail.com** For Collaboration/Project or An
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kotishtrivedii&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
